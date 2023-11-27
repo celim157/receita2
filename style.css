@@ -2,7 +2,7 @@ body {
 	
 }
 
-#banner {
+#bolo {
 	width:100%;
 }
 
@@ -28,14 +28,14 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #0048ff;
 }
 
 .itens {
 	font-style: italic
 }
 
-.beneficios {
+.Ingredientes {
 	background: #FFFFFF;
 	padding: 20px;
 }
@@ -47,6 +47,6 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
+.imagembolo {
 	width: 50%;
 }
